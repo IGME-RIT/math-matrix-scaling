@@ -1,0 +1,14 @@
+series: Matrix Mathematics
+title: Matrix scaling
+author:
+  name: Andrew Litfin
+  email:
+  github: astrodude80
+description: This tutorial explains scaling matrices in detail.
+language: C++
+tags:
+  - Math
+extra_resources:
+connections:
+  - series: Matrix Mathematics
+    title: Matrices and Vectors
